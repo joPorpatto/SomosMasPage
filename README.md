@@ -5,6 +5,19 @@
 - Control de versiones: GIT - GITHUB
 - Herramientas principales: REDUX/TOOLKIT -  ESLINT - CHAKRA UI  - AXIOS - REACT ROUTER DOM - FORMIK  - React Testing Library
 
+### Home
+![ScreenShot](/public/images/image_0.png)
+
+### Error Login
+![ScreenShot](/public/images/image_1.png)
+### Campaign Toys
+![ScreenShot](/public/images/image_2.png)
+
+### Dahsboard Admin
+![ScreenShot](/public/images/image_3.png)
+
+### Backoffice
+![ScreenShot](/public/images/image_4.png)
 
 
 ## Ong Client
